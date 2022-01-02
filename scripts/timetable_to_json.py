@@ -1,6 +1,8 @@
 import json, sys, time, html, requests, string
 from requests.auth import HTTPBasicAuth
 
+# Note: this is specific to school and you should only inspire by it. This code probably won't work in your environment. If you need to parse it, use something else.
+
 
 # -*- coding: utf-8 -*-
 def planLekcji(response):
